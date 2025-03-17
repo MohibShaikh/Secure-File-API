@@ -1,0 +1,44 @@
+﻿NOTICE: Imaging failed with the following error:
+The specified network resource or device is no longer available. (55)
+This image is incomplete!
+
+Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: 1
+Evidence Number: 1
+Unique description: demo
+Examiner: bozo
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\96655\Downloads\blazin:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 976
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 15,687,680
+[Physical Drive Information]
+ Drive Model: CB2096P Flash Disk USB Device
+ Drive Serial Number: CCBB0205230601300841426509
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 7660 MB
+ Sector count:    15687680
+[Computed Hashes]
+ MD5 checksum:    4c158dc5196412493229eff8f75866bf
+ SHA1 checksum:   9d6ec098ac6b29e8c158d2863acd2052e6660481
+
+Image Information:
+ Acquisition started:   Mon Mar 10 05:09:12 2025
+ Acquisition finished:  Mon Mar 10 05:14:18 2025
+ Segment list:
+  C:\Users\96655\Downloads\blazin.001
+  C:\Users\96655\Downloads\blazin.002
