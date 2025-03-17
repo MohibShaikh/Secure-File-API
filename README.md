@@ -49,11 +49,11 @@ npm run dev  # Start the development server
 
 
 ## Features of Secure File Storage System
-- ** 🔐 ** Authentication: JWT-based login with role-based access.
-- ** 📂 ** Secure File Management: Upload, list, and download encrypted files.
-- ** 🔒 ** Encrypted Filenames: SHA-256 hashing for file name protection.
-- ** 🚀 ** Lightweight & Fast: Built with Django REST Framework & Svelte.
-- ** 🛠 ** Deployment-Ready: Works with SQLite & will be deployed on cloud platforms.
+- 🔐 Authentication: JWT-based login with role-based access.
+- 📂 Secure File Management: Upload, list, and download encrypted files.
+- 🔒 Encrypted Filenames: SHA-256 hashing for file name protection.
+- 🚀 Lightweight & Fast: Built with Django REST Framework & Svelte.
+- 🛠  Deployment-Ready: Works with SQLite & will be deployed on cloud platforms.
 
 ## API Endpoints
 
