@@ -1,6 +1,6 @@
 # Secure File Upload System
 
-This project is a **Secure File Upload System** built with **Django REST Framework** (backend) and **Svelte** (frontend). It allows users to upload, encrypt, download, and manage files securely.
+This project is **Secure File Upload System** built with **Django REST Framework** (backend) and **Svelte** (frontend). It allows users to upload, encrypt, download, and manage files securely.
 
 ## Features
 
