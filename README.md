@@ -21,8 +21,7 @@ This project is a **Secure File Upload System** built with **Django REST Framewo
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/secure-file-upload.git
-cd secure-file-upload
+git clone [https://github.com/your-repo/secure-file-upload.git](https://github.com/MohibShaikh/Secure-File-API.git)
 ```
 
 ### 2. Backend Setup (Django)
@@ -33,7 +32,7 @@ venv\Scripts\activate # Activate virtual environment (Windows)
 ```
 ```sh
 pip install -r requirements.txt
-python manage.py runserver  # Start the backend server
+python manage.py runserver
 ```
 
 *Backend will run at* **[http://127.0.0.1:8000/](http://127.0.0.1:8000/)**
