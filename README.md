@@ -13,8 +13,8 @@ This project is a **Secure File Upload System** built with **Django REST Framewo
 ## Tech Stack
 
 - **Backend:** Django, Django REST Framework, JWT Authentication
-- **Frontend:** Svelte, TailwindCSS (or basic CSS styling)
-- **Database:** SQLite (default, can be changed)
+- **Frontend:** Svelte
+- **Database:** SQLite
 
 ## Setup Instructions
 
