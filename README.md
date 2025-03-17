@@ -28,13 +28,11 @@ cd secure-file-upload
 ### 2. Backend Setup (Django)
 
 ```sh
-cd backend  # Navigate to the backend folder
-python -m venv venv  # Create a virtual environment
 source venv/bin/activate  # Activate virtual environment (Linux/macOS)
-venv\Scripts\activate  # Activate virtual environment (Windows)
-pip install -r requirements.txt  # Install dependencies
-python manage.py migrate  #dAdddddddddddddddddddpply migrations
-python manage.py createsuperuser  # Create admin user (optional)
+venv\Scripts\activate # Activate virtual environment (Windows)
+```
+```sh
+pip install -r requirements.txt
 python manage.py runserver  # Start the backend server
 ```
 
